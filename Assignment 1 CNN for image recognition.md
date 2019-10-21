@@ -49,7 +49,7 @@ If you have more questions, please contact our **TA (Qian Ren)**.
 
 2.6 Visualize the learning progress (e.g., tensorboardX in Pytorch). Please take a picture for the visualized curves in tensorboardX or visdom in Pytorch then paste them here
 
-![459376.png](Assignment 1 CNN for image recognition_files/459376.png)
+![459376.png](./Assignment 1 CNN for image recognition_files/459376.png)
 
 
 - accuracy (**1p**) and 
@@ -64,7 +64,7 @@ If you have more questions, please contact our **TA (Qian Ren)**.
  ***(Sum: 15p)***
 - You might refer to this link : https://github.com/grishasergei/conviz
 
-![495980.png](Assignment 1 CNN for image recognition_files/495980.png)
+![495980.png](./Assignment 1 CNN for image recognition_files/495980.png)
 
 2.8 Feature mapping visualization 
 
