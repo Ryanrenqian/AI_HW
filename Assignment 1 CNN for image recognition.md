@@ -31,7 +31,7 @@ If you have more questions, please contact our **TA (Qian Ren)**.
 
 *Table 1 your own ResNet model*
 
-![resnet18.png](Assignment 1 CNN for image recognition_files/resnet18.png)
+![resnet18.png](./Assignment 1 CNN for image recognition_files/resnet18.png)
 
 ### 2 Create your own ResNet work shown in Table 1 (19p)
 
