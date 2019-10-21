@@ -31,14 +31,7 @@ If you have more questions, please contact our **TA (Qian Ren)**.
 
 *Table 1 your own ResNet model*
 
-| Layer Name | Output Size | |
-| ---------- | ---------------- | ------------------------------------------------------------ |
-| Conv1 | $112 \times 112$ | $7 \times 7$, 64 stride 2 |
-| Conv2-x | $56 \times 56$ | $3 \times 3 $ max pool, stride 2 $ \begin{vmatrix} 3 \times 3 & 6 \\ 3 \times 3 & 64 \\ \end{vmatrix} \times 2$ |
-| Conv3-x | $28 \times 28$ | $3 \times 3 $ max pool, stride 2 $ \begin{vmatrix} 3 \times 3 & 128 \\ 3 \times 3 & 128 \\ \end{vmatrix} \times 2$ |
-| Conv4-x | $14 \times 14$ | $3 \times 3 $ max pool, stride 2 $ \begin{vmatrix} 3 \times 3 & 256 \\ 3 \times 3 & 256 \\ \end{vmatrix} \times 2$ |
-| Conv5-x | $7 \times 7$ | $3 \times 3 $ max pool, stride 2 $ \begin{vmatrix} 3 \times 3 & 512 \\ 3 \times 3 & 512 \\ \end{vmatrix} \times 2$ |
-| | $ 1 \times 1$ | average pool, 10-d FC, softmax |
+![resnet18.png](Assignment 1 CNN for image recognition_files/resnet18.png)
 
 ### 2 Create your own ResNet work shown in Table 1 (19p)
 
